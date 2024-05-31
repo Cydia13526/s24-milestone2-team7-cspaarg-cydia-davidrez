@@ -7,3 +7,6 @@ scikit-learn
 wordcloud
 nltk
 scipy
+textblob
+spacy
+WordCloud
