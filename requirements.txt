@@ -10,3 +10,8 @@ scipy
 textblob
 spacy
 WordCloud
+transformers
+torch
+torchvision
+matplotlib
+seaborn
