@@ -18,3 +18,5 @@ seaborn
 sentencepiece
 huggingface_hub
 cryptography
+gensim
+xgboost
