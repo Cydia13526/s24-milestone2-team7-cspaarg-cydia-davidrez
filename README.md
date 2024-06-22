@@ -7,7 +7,6 @@
 ##### Cydia Tsang (cydia@umich.edu), School of Information, University of Michigan
 ##### David Rezkalla(davidrez@umich.edu), School of Information, University of Michigan
 
-
 ### Table of Contents:
 #####  Prerequisite
 ######     1. Library Download & Import: Steps to download and import necessary libraries.
@@ -21,20 +20,18 @@
 ######     4. Data Merge: Combining the meeting minutes with the Federal Funds Rate data.
 #####  C. Basic NLP Analysis
 ######     1. Sentiment Analysis: Analyzing the sentiment of the meeting minutes.
-######     2. Key phrase extraction
+######     2. Key Phrase Extraction: Identifying key phrases in the text data.
 #####  D. Supervising Learning
-######     1. Base Model - Linear Regression
-######     2. Actual Model - Linear Regression, Support Vector Machine, Decision Tree Regressor and XGBoost Regressor
-######     3. Actual Model With Temporal Features
-######     4. Actual Model With Sentiment Analysis
+######     1. Base Model - Linear Regression: Initial model using linear regression.
+######     2. Actual Models: Implementation of Linear Regression, Support Vector Machine, Decision Tree Regressor, and XGBoost Regressor.
+######     3. Actual Models With Temporal Features: Enhancing models with time-based features.
+######     4. Actual Models With Sentiment Analysis: Incorporating sentiment analysis into the models.
 #####  E. Unsupervising Learning
-######     1. KMeans Clustering
-######     2. LDA Topic grouping
-
+######     1. KMeans Clustering: Clustering the data using KMeans.
+######     2. LDA Topic Grouping: Grouping topics using Latent Dirichlet Allocation (LDA).
 
 ### Prerequisites:
 ###### Python 3.8+
-###### Other prerequisites
 
 
 ### Installation:
