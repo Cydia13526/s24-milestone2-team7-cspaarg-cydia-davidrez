@@ -1,15 +1,15 @@
-#####s24-milestone2-team7-cspaarg-cydia-davidrez
+##### s24-milestone2-team7-cspaarg-cydia-davidrez
 
-#####Casey Spaargaren(cspaarg@umich.edu), School of Information, University of Michigan
-#####Cydia Tsang (cydia@umich.edu), School of Information, University of Michigan
-#####David Rezkalla(davidrez@umich.edu), School of Information, University of Michigan
+##### Casey Spaargaren(cspaarg@umich.edu), School of Information, University of Michigan
+##### Cydia Tsang (cydia@umich.edu), School of Information, University of Michigan
+##### David Rezkalla(davidrez@umich.edu), School of Information, University of Michigan
 
-#####1. Set Up Steps
+##### --------------- Set Up Steps ---------------
 ###### 1. pip install -r requirements.txt (For python 2)/ python3 -m notebook (For python3)
 ###### 2. jupyter notebook
 ###### 3. Inside jupyter notebook, click project.ipynb
 
-#####2. Strcuture of the Code:
+##### --------------- Strcuture of the Code ---------------
 ######  Prerequisite
 ######     1.Library Download & Import
 ######     2.Hugging Face Login
