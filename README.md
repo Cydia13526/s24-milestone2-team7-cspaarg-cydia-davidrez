@@ -33,9 +33,13 @@
 ### Prerequisites:
 ###### Python 3.8+
 
-
 ### Installation:
 ###### 1. git clone https://github.com/Cydia13526/s24-milestone2-team7-cspaarg-cydia-davidrez.git
-###### 2. pip install -r requirements.txt (For python 2)/ python3 -m notebook (For python3)
-###### 3. jupyter notebook
-###### 4. Inside jupyter notebook, click project.ipynb
+###### 2. git checkout develop
+###### 3. pip install -r requirements.txt
+###### 4. jupyter notebook (For python 2)/ python3 -m notebook (For python3)
+###### 5. Inside jupyter notebook, click project.ipynb
+
+### Run the Following Command If you failed to import XGBRegressor
+###### /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+###### brew install libomp
